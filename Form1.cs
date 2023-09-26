@@ -99,7 +99,7 @@ namespace WindowsFormsAppLibraryProject
 				{ "Foundation, Edition 1", @"D:\Visual studio projects\WindowsAppLibraryProject\foundation.jpg" },
 				{ "I, Robot, Edition 1", @"D:\Visual studio projects\WindowsAppLibraryProject\irobot.jpg" },
 				{ "Slash, Edition 1", @"D:\Visual studio projects\WindowsAppLibraryProject\slash.jpg" },
-				{ "Blindsight, Edition 1", @"D:\Visual studio projects\WindowsAppLibraryProject\blinsight.jpg" },
+				{ "Blindsight, Edition 1", @"D:\Visual studio projects\WindowsAppLibraryProject\blindsight.jpg" },
 				{ "Mort, Edition 2", @"D:\Visual studio projects\WindowsAppLibraryProject\mort.jpg" },
 			};
 
