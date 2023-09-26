@@ -8,7 +8,7 @@ namespace WindowsFormsAppLibraryProject
 {
 	public partial class Form1 : Form
 	{
-		string connectionString = "Server=localhost;Database=Library;User=root;Password=cokolwiek;";
+		string connectionString = "Server=localhost;Database=Library;User=root;Password=---;";
 		MySqlConnection connection;
 
 		private string userRole;
